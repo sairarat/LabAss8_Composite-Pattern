@@ -14,6 +14,6 @@ New Era University is composed of various organizational units. These units can 
 - **Calculate the budget:** The system should be able to calculate the total budget for a College. The budget for a College is the sum of the budgets of its departments, teachers, and the negative sum of all the tuition fees of the students. The budget of a department is the sum of the budgets of its teachers and the negative sum of the tuition fees of the students in that department. A teacher's budget is their salary. A student's budget is the negative value of their tuition fee.
 
 ### UML Class Diagram
-
+![img](https://github.com/sairarat/LabAss8_Composite-Pattern/blob/main/Composite%20Pattern%20UML.png)
 
 
